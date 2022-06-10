@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aKczLZBYRONhIYugaqwqCy",
+    "id" : "lXf7JCGthCPcREdiRjk7MQ",
     "name" : "Mapping_RESTV2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5BR1700000000000L"
+        "repoHandle" : "01C5M717000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "lsq5I0UPXAxeCejvDW1lqU",
-    "name" : "Flat-File_Connection",
+    "id" : "3WjySN7K3w2aZKv0ktSV8F",
+    "name" : "OpenWeather_RESTv2_Connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5BR0B000000000009"
+        "repoHandle" : "01C5M70B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,8 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "fS6ouEI3qCbfxNx5AriUcT",
-    "name" : "OpenWeather_RESTv2_Connection",
+    "id" : "3w9PZ2u1wQgjlNFaeIA3uE",
+    "name" : "Flat-File_Connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5BR0B000000000008"
+        "repoHandle" : "01C5M70B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

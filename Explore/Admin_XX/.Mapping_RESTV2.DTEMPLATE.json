@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "lXf7JCGthCPcREdiRjk7MQ",
+    "id" : "aYWhmeq5HVQhkjxIrLzXo1",
     "name" : "Mapping_RESTV2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5M717000000000004"
+        "repoHandle" : "01C5M717000000000005"
       },
       "contextAttributes" : [ {
         "name" : "id",
